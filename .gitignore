@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+npm-debug.log
+.env
+
+# Build files
+frontend/build
+backend/dist
